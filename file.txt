@@ -1,5 +1,1 @@
-// my first line of code
-nova linija kod
-sms
-
-sms4
+test.gitignore
